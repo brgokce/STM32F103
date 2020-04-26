@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;F103_TIM_PWM_OUTPUT/F103_TIM_OUTPUT_COMPARE Debug.launch&apos;" deleteContents="false" description="Delete resource &apos;F103_TIM_PWM_OUTPUT/F103_TIM_OUTPUT_COMPARE Debug.launch&apos;" element1="/F103_TIM_PWM_OUTPUT/F103_TIM_OUTPUT_COMPARE Debug.launch" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1587928549775"/>
+</session>

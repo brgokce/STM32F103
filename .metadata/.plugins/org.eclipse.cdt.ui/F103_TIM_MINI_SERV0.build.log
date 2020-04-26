@@ -1,0 +1,7 @@
+23:52:17 **** Clean-only build of configuration Debug for project F103_TIM_MINI_SERV0 ****
+make -j12 clean 
+rm -rf *
+ 
+
+23:52:17 Build Finished. 0 errors, 0 warnings. (took 338ms)
+

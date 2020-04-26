@@ -1,0 +1,7 @@
+20:29:04 **** Clean-only build of configuration Debug for project F103_TIM_TIME_BASE_INTERRUPT_US ****
+make -j12 clean 
+rm -rf *
+ 
+
+20:29:05 Build Finished. 0 errors, 0 warnings. (took 357ms)
+

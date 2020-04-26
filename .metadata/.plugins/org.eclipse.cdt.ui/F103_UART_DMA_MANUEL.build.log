@@ -1,0 +1,7 @@
+23:52:49 **** Clean-only build of configuration Debug for project F103_UART_DMA_MANUEL ****
+make -j12 clean 
+make: *** No rule to make target 'clean'.  Stop.
+"make -j12 clean" terminated with exit code 2. Build might be incomplete.
+
+23:52:49 Build Failed. 1 errors, 0 warnings. (took 177ms)
+

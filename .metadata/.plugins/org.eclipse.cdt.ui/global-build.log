@@ -1,0 +1,4 @@
+23:53:07 **** Clean-only build of configuration Debug for project F103_UART_POLLING_MANUEL ****
+make -j12 clean 
+make: *** No rule to make target 'clean'.  Stop.
+"make -j12 clean" terminated with exit code 2. Build might be incomplete.

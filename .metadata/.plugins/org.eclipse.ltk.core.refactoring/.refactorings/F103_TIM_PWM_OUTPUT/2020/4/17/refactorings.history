@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;F103_TIM_PWM_OUTPUT/F103_TIM_OUTPUT_COMPARE.ioc&apos; to &apos;F103_TIM_PWM_OUTPUT.ioc&apos;" description="Rename resource &apos;F103_TIM_OUTPUT_COMPARE.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="F103_TIM_OUTPUT_COMPARE.ioc" name="F103_TIM_PWM_OUTPUT.ioc" stamp="1587928564125" updateReferences="true"/>
+</session>

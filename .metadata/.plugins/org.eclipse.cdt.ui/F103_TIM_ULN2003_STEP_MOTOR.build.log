@@ -1,0 +1,7 @@
+23:52:39 **** Clean-only build of configuration Debug for project F103_TIM_ULN2003_STEP_MOTOR ****
+make -j12 clean 
+rm -rf *
+ 
+
+23:52:39 Build Finished. 0 errors, 0 warnings. (took 326ms)
+

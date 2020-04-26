@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;F103_TIM_TIME_BASE_INTERRUPT_US/F103_TIM_TIME_BASE_INTERRUPT_US.ioc&apos; to &apos;F103_TIM_ENCODER_INPUT.ioc&apos;" description="Rename resource &apos;F103_TIM_TIME_BASE_INTERRUPT_US.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="F103_TIM_TIME_BASE_INTERRUPT_US.ioc" name="F103_TIM_ENCODER_INPUT.ioc" stamp="1587917354579" updateReferences="true"/>
+</session>
