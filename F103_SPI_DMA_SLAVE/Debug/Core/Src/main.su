@@ -1,0 +1,12 @@
+main.c:85:5:main	16	static
+main.c:164:6:SystemClock_Config	88	static
+main.c:209:13:MX_ADC1_Init	24	static
+main.c:254:13:MX_SPI2_Init	8	static
+main.c:292:13:MX_USART1_UART_Init	8	static
+main.c:323:13:MX_DMA_Init	16	static
+main.c:344:13:MX_GPIO_Init	40	static
+main.c:377:6:TimeOut_Handler	8	static
+main.c:382:7:HAL_ADC_ConvCpltCallback	16	static
+main.c:390:7:HAL_SPI_TxRxCpltCallback	16	static
+main.c:410:7:HAL_SPI_ErrorCallback	16	static
+main.c:427:6:Error_Handler	8	static

@@ -834,3 +834,36 @@ Error finishing flash operation
 java.lang.Exception: Error finishing flash operation
 	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
 	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+!SESSION 2020-05-31 03:01:40.620 -----------------------------------------------
+eclipse.buildId=Version 1.3.0
+java.version=1.8.0_242
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=tr_TR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\WORKSPACE_CUBEIDE
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-05-31 03:01:47.683
+!MESSAGE Log4j initialized with config file C:\WORKSPACE_CUBEIDE\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-05-31 03:01:53.599
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-05-31 03:01:54.119
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-31 03:03:11.499
+!MESSAGE Indexed 'F103_SPI_DMA_MASTER' (19 sources, 52 headers) in 3,84 sec: 5.562 declarations; 23.311 references; 6 unresolved inclusions; 287 syntax errors; 2.150 unresolved names (%6,9)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-31 03:03:52.382
+!MESSAGE Indexed 'F103_SPI_POLLING_SLAVE' (20 sources, 51 headers) in 1,78 sec: 5.248 declarations; 20.323 references; 16 unresolved inclusions; 277 syntax errors; 1.930 unresolved names (%7)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-31 03:03:54.042
+!MESSAGE Indexed 'F103_SPI_DMA_SLAVE' (23 sources, 100 headers) in 1,59 sec: 7.713 declarations; 32.620 references; 2 unresolved inclusions; 36 syntax errors; 186 unresolved names (%0,46)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-31 03:03:56.238
+!MESSAGE Indexed 'F103_SPI_IT_MASTER' (19 sources, 54 headers) in 0,983 sec: 5.555 declarations; 25.504 references; 2 unresolved inclusions; 35 syntax errors; 186 unresolved names (%0,6)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-31 03:03:57.168
+!MESSAGE Indexed 'F103_SPI_IT_SLAVE' (18 sources, 53 headers) in 0,922 sec: 5.193 declarations; 22.290 references; 2 unresolved inclusions; 35 syntax errors; 186 unresolved names (%0,67)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-31 03:03:57.964
+!MESSAGE Indexed 'F103_SPI_POLLING_MASTER' (19 sources, 54 headers) in 0,792 sec: 5.555 declarations; 25.604 references; 2 unresolved inclusions; 35 syntax errors; 186 unresolved names (%0,59)
